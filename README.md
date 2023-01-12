@@ -26,7 +26,8 @@ addpath(PathtoFolder/MCAI)
 ```
 
 # Processing the data
-This toolbox operates as an extension of TASH. Heschl’s gyrus masks obtained from the toolbox are thus mandatory. Follow the User Manual of TASH to get them! 
+This toolbox operates as an extension of TASH. Heschl’s gyrus masks obtained from the toolbox are thus mandatory. Follow the User Manual of [TASH Toolbox](https://github.com/golestaniBBLab/TASH) to get them!\
+
 The following Concavity Indexes are extracted using MCAI:
 
 * MCAI_[lh,rh]_total MCAI values independent of orientation 
