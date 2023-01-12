@@ -30,7 +30,7 @@ This toolbox operates as an extension of TASH. Heschl’s gyrus masks obtained f
 The following Concavity Indexes are extracted using MCAI:
 
 * MCAI_[lh,rh]_total MCAI values independent of orientation 
-* MCAI_[lh,rh]_[orientationType] MCAI results for one specific orientation. Lateral, Medial, Anterior, et. (see comment MCAI for a full description)
+* MCAI_[lh,rh]_[orientationType] MCAI results for one specific orientation. Lateral, Medial, Anterior, et. (see comment in MCAI.m for a full description)
 
 To use the toolbox navigate to the folder where you want to extract the MCAI images and simply run:
 ```matlab
