@@ -12,20 +12,20 @@
 </pre>
 by Josue Luiz Dalboni da Rocha
 
-## Paper
+# Paper
 
 Multivariate Concavity Amplitude Index (MCAI) for characterizing Heschl’s gyrus shape.Josue Luiz Dalboni da Rocha, Olga Kepinska, Peter Schneider, Jan Benner, Letitia Schneider, Narly Golestani.
 
-## Usage Manual
+# Usage Manual
 
-# Installation
+## Installation
 
 This software has been written in Matlab. Download the folder containing the code and add it to you Matlab path with 
 ```matlab
 addpath(PathtoFolder/MCAI)
 ```
 
-# Processing the data
+## Processing the data
 This toolbox operates as an extension of TASH. Heschl’s gyrus masks obtained from the toolbox are thus mandatory. Follow the User Manual of [TASH Toolbox](https://github.com/golestaniBBLab/TASH) to get them!
 
 The following Concavity Indexes are extracted using MCAI:
